@@ -1,6 +1,6 @@
 import { Fragment } from "react"
 import classes from './Header.module.css'
-import CardButton from "./CartButton";
+import CardButton from "../cart/CartButton";
 
 const Header = (props) => {
     return(
